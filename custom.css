@@ -706,6 +706,10 @@ ts-message .reply_bar:hover {
    color: var(--text) !important;
 }
 
+#message_edit_container .message_input {
+    background:  var(--background-elevated);
+}
+
 /* other */
 .special_formatting_quote .quote_bar {
    background: var(--border-bright) !important;

@@ -859,8 +859,8 @@ div::-webkit-scrollbar-thumb {
 /* thread side panel */
 
 #mentions_scroller {
-   background: var(--background) !important;
-   color: var(--text) !important;
+   background: #282C34 !important;
+   color: #ABB2BF !important;
 }
 
 
